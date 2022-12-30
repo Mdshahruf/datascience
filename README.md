@@ -1,4 +1,5 @@
 Data Science Methodology final assignment
+
 Which topic did you choose to apply the data science methodology to? (2 marks)
 I have chosen as topic for this task the application of data science in the field of credit cards. The reason behind this choice is that it is related with my finance education.
 
