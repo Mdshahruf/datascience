@@ -1,6 +1,6 @@
 Data Science Methodology final assignment
 
-Which topic did you choose to apply the data science methodology to? (2 marks)
+Which topic did you choose to apply the data science methodology to?
 I have chosen as topic for this task the application of data science in the field of credit cards. The reason behind this choice is that it is related with my finance education.
 
 Next, you will play the role of the client and the data scientist. Using the topic that you selected, complete the Business Understanding stage by coming up with a problem that you would like to solve and phrasing it in the form of a question that you will use data to answer. (3 marks)
@@ -14,6 +14,7 @@ So the main problem for banks regarding credit cards is that they have to create
 So our question would be " Can we automatically determine if a client is suitable to obtain a credit card?
 
 Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with. (5 marks):
+
 1. Analytic Approach
 2. Data Requirements
 3. Data Collection
