@@ -1,34 +1,44 @@
-Data Science Methodology final assignment
 # https://github.com/Mdshahruf/datascience.git
 
+Q1.) Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
 
-Which topic did you choose to apply the data science methodology to?
-I have chosen as topic for this task the application of data science in the field of credit cards. The reason behind this choice is that it is related with my finance education.
+ANS:-DATA SCIENCE:
+              
+            *  Data science is something that data scientist do.
+            *  Data science is a way of extracting insights from large volumes of                        disparate data.
+            *  Data science involves drawing patterns from seemingly random structured                  and unstructured type of data.
 
-Next, you will play the role of the client and the data scientist. Using the topic that you selected, complete the Business Understanding stage by coming up with a problem that you would like to solve and phrasing it in the form of a question that you will use data to answer. (3 marks)
-You are required to:
-1) Describe the problem, related to the topic you selected.
-2) Phrase the problem as a question to be answered using data
-For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?".
+Data scientists:
 
-So the main problem for banks regarding credit cards is that they have to create a model to know to who they can provide them. Certain clients will not be feasible as they do not have the economic strenght to back up this service.
+* Data scientists are curious and analytical thinkers who use a variety of math skills     not limited to Mathematics, Statistics and Probability to solve a problem.
+* They apply different available methods and algorithms to draw insights and conclusions   from various kinds of data.
+* After applying data science methodologies, they are effective communicators and story     tellers who can present their findings often to present new findings or confirm what     was initially suspected.
 
-So our question would be " Can we automatically determine if a client is suitable to obtain a credit card?
 
-Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with. (5 marks):
+Q2.) As discussed in the videos and the reading material, data science can be applied to problems across different industries. What industry are you passionate about and would like to pursue a data science career in? (1 mark)
 
-1. Analytic Approach
-2. Data Requirements
-3. Data Collection
-4. Data Understanding and Preparation
-5. Modeling and Evaluation
-You can always refer to the labs as a reference with describing how you would complete each stage for your problem.
-Analytic Approach: As the problem requires a yes/no answer we will use a classification model
+ANS: I am passionate about pursuing a data science career in the field of Healthcare with the main focus being improving quality of care provided and making healthcare affordable. I would like to create models to predict diseases very early on by looking at various parameters of a person not limited to genetics, family history, lifestyle, and diet.
 
-Data Requirements: To create the classification model we will require information regarding the bank clients. This info should include personal data of the client and should include the ones that defaulted and the one that paid.
+Q3.) Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)
 
-3: Data Collection: We would use techiques like descriptive statistics and data evalution should be implemented in this phase to make sure that we have useful data for our model.
+ANS:  The 10 main components of a data science project report would be:
 
-4: Data Undestanding and Preparation: In this step we need to evaluate the different variables of our data in order to undestant it better. For example we would calculate univariate statistics, such as mean or median and the correlation between variables. So we need to evaluate the quality of the data. In the data preparation phase we have to prepare the data in an specific way depending on the model.
+1.Cover Page with Author’s name, contacts, affiliations if any and publication date
+2.Table of Contents containing main headings, list of contents and figures
+3.Abstract / Executive summary to explain gist of the report
+4.Introduction to explain the topic to new readers
+5.Literature Review including citations of authors and data sources
+6.Methodology section to explain the research methods and data sources used for analysis
+7.Detailed Explanations including Results and discussion sections
+8.Conclusions which generalize findings and identify possible future outcomes.
+9.References
+10.Acknowledgement and Appendices (if Needed)
 
-5: Modeling and Evaluation: Lastly we create a classification model, evaluate the outcome and perform the corresponding changes untill we have a suitable model.
+
+Conclusion:
+
+  Hopefully, this article will be useful for you to find all the Week, final assessment   and Peer Graded Assessment Answers of What is Data Science? Quiz of Coursera and grab   some premium knowledge with less effort. If this article really helped you in any way   then make sure to share it with your friends on social media and let them also know     about this amazing training.
+
+
+
+
